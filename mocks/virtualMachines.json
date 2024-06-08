@@ -1,0 +1,26 @@
+[
+	{
+		"createdAt": "2024-01-01T00:00:00.000Z",
+		"id": "vm-1",
+		"name": "Virtual Machine 1",
+		"status": "running"
+	},
+	{
+		"createdAt": "2024-01-01T00:00:00.000Z",
+		"id": "vm-2",
+		"name": "Virtual Machine 2",
+		"status": "stopped"
+	},
+	{
+		"createdAt": "2024-01-01T00:00:00.000Z",
+		"id": "vm-3",
+		"name": "Virtual Machine 3",
+		"status": "stopped"
+	},
+	{
+		"createdAt": "2024-01-01T00:00:00.000Z",
+		"id": "vm-4",
+		"name": "Virtual Machine 4",
+		"status": "running"
+	}
+]

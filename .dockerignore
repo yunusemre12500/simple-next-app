@@ -1,0 +1,10 @@
+.git/
+.next/
+.vscode/
+.dockerignore
+.editorconfig
+.gitattributes
+.gitignore
+.prettierignore
+.prettierrc
+Dockerfile
